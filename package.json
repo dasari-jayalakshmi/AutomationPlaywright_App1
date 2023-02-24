@@ -1,0 +1,21 @@
+{
+  "name": "automationplaywright_app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasari-jayalakshmi/AutomationPlaywright_App1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasari-jayalakshmi/AutomationPlaywright_App1/issues"
+  },
+  "homepage": "https://github.com/dasari-jayalakshmi/AutomationPlaywright_App1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
